@@ -18,3 +18,11 @@ According to Long Beach and Cleveland Clinic Foundation, cardiovascular diseases
   12. HeartDisease: output class [1: heart disease, 0: Normal]
 
 People with cardiovascular disease or who are at high cardiovascular risk is due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease. Therefore, machine learning can be a great asset to the early detection and mangement of people who have cardiovascular disease or who simply have high cardiovascular risk.
+
+**Data Cleaning Problems:**
+
+  1. Correcting the data types
+  2. Removing the unecessary columns or values
+  3. Handling missing values
+  4. Removing outliers
+  5. Removing multicollinearity
