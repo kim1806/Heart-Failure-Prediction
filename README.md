@@ -1,7 +1,8 @@
 # Heart-Failure-Prediction
 ![image](https://user-images.githubusercontent.com/91767251/159140224-94d1219c-01ed-470a-8516-8e41b12aa7f9.png)
 
-**Introduction:**  According to Long Beach and Cleveland Clinic Foundation, cardiovascular diseases are the number one cause of death globally, taking a toll of eighteen million lives each year, and accounts for thirty-one percent of all deaths worldwide. In a simple sense, four out of five deaths in cardiovascular diseases are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under seventy years of age. Heart failure is a common event caused by cardiovascular diseases and this dataset contains twelve features that can be used to predict a possible heart disease:
+**Introduction:** 
+According to Long Beach and Cleveland Clinic Foundation, cardiovascular diseases are the number one cause of death globally, taking a toll of eighteen million lives each year, and accounts for thirty-one percent of all deaths worldwide. In a simple sense, four out of five deaths in cardiovascular diseases are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under seventy years of age. Heart failure is a common event caused by cardiovascular diseases and this dataset contains twelve features that can be used to predict a possible heart disease:
   1. Age: age of the patient [years]
   2. Sex: sex of the patient [M: Male, F: Female]
   3. ChestPainType: chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
