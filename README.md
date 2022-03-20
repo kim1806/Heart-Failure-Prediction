@@ -24,6 +24,7 @@ People with cardiovascular disease or who are at high cardiovascular risk is due
 ![newplot](https://user-images.githubusercontent.com/91767251/159189899-a732ce01-7983-4aaa-a12e-f69015f1620c.png)
 
 Mean age: 53.510893246187365
+
 Median age: 54.0
 
 ![newplot (1)](https://user-images.githubusercontent.com/91767251/159189924-930129c6-de35-4431-9058-4de3096f8878.png)
