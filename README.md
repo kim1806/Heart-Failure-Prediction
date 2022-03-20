@@ -31,8 +31,8 @@ https://github.com/kim1806/Heart-Failure-Prediction/blob/main/Data%20Cleaning%20
 
 ![image](https://user-images.githubusercontent.com/91767251/159147825-87eabf42-ccbd-4355-844c-eb52f59d9ab2.png)
 
-Adults age 50 and older are more likely than younger people to have heart disease
+Adults age 50 and older are more likely than younger people to have heart disease.
 
 ![image](https://user-images.githubusercontent.com/91767251/159147839-1a675b40-3889-4f1f-80e2-57739a8c3010.png)
 
-Asymptomatic is the most common type of chest pain among patients with heart disease 
+Asymptomatic is the most common type of chest pain among patients with heart disease. 
