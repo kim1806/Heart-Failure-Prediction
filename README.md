@@ -21,6 +21,8 @@ People with cardiovascular disease or who are at high cardiovascular risk is due
 
 **Description Statistics:**
 
+https://github.com/kim1806/Heart-Failure-Prediction/blob/main/Descriptive%20Statistics%20Heart%20Disease%20Prediction.ipynb
+
 ![newplot](https://user-images.githubusercontent.com/91767251/159189899-a732ce01-7983-4aaa-a12e-f69015f1620c.png)
 
 Mean age: 53.510893246187365
@@ -54,4 +56,8 @@ Adults age 50 and older are more likely than younger people to have heart diseas
 
 ![image](https://user-images.githubusercontent.com/91767251/159147839-1a675b40-3889-4f1f-80e2-57739a8c3010.png)
 
-Asymptomatic is the most common type of chest pain among patients with heart disease. 
+Asymptomatic is the most common type of chest pain among patients with heart disease.
+
+![image](https://user-images.githubusercontent.com/91767251/159190789-e4f4d0dd-e88b-48fd-b272-a389c4f1d441.png)
+
+A pairplot between heart disease with age, sex, chestPainType, restingBP, cholesterol, fastingBS, restingECG, maxHR ExerciseAngina, Old_Peak, and ST_Slope.
