@@ -29,6 +29,8 @@ https://github.com/kim1806/Heart-Failure-Prediction/blob/main/Data%20Cleaning%20
 
 **EDA**
 
+https://github.com/kim1806/Heart-Failure-Prediction/blob/main/EDA%20Heart%20Disease%20Prediction.ipynb
+
 ![image](https://user-images.githubusercontent.com/91767251/159147825-87eabf42-ccbd-4355-844c-eb52f59d9ab2.png)
 
 Adults age 50 and older are more likely than younger people to have heart disease.
