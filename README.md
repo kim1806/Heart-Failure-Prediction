@@ -46,7 +46,7 @@ https://github.com/kim1806/Heart-Failure-Prediction/blob/main/Data%20Cleaning%20
   2. Removing the unecessary columns or values.
   3. Handling missing values.
 
-**EDA**
+**EDA:**
 
 https://github.com/kim1806/Heart-Failure-Prediction/blob/main/EDA%20Heart%20Disease%20Prediction.ipynb
 
