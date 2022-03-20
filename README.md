@@ -24,5 +24,4 @@ People with cardiovascular disease or who are at high cardiovascular risk is due
   1. Correcting the data types
   2. Removing the unecessary columns or values
   3. Handling missing values
-  4. Removing outliers
-  5. Removing multicollinearity
+
