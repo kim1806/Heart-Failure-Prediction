@@ -19,6 +19,22 @@ According to Long Beach and Cleveland Clinic Foundation, cardiovascular diseases
 
 People with cardiovascular disease or who are at high cardiovascular risk is due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease. Therefore, machine learning can be a great asset to the early detection and mangement of people who have cardiovascular disease or who simply have high cardiovascular risk.
 
+**Description Statistics:**
+
+![newplot](https://user-images.githubusercontent.com/91767251/159189899-a732ce01-7983-4aaa-a12e-f69015f1620c.png)
+
+Mean age: 53.510893246187365
+Median age: 54.0
+
+![newplot (1)](https://user-images.githubusercontent.com/91767251/159189924-930129c6-de35-4431-9058-4de3096f8878.png)
+
+The values are concentrated between 200-300 but we see the range is 438. The reason is because of outliers in the data.
+
+![newplot (2)](https://user-images.githubusercontent.com/91767251/159189941-7d80b08c-4b30-4d3f-965c-d3dba36cb492.png)
+
+The numbers outside the range of 115.75 and 369.75 will be considered as outliers
+The box plot verify our calculation. All the number greater than 369.75 are shown as outliers.
+
 **Data Cleaning Problems:**
 
 https://github.com/kim1806/Heart-Failure-Prediction/blob/main/Data%20Cleaning%20Heart%20Disease%20Prediction%20.ipynb
