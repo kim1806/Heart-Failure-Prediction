@@ -26,3 +26,7 @@ https://github.com/kim1806/Heart-Failure-Prediction/blob/main/Data%20Cleaning%20
   1. Correcting the data types
   2. Removing the unecessary columns or values
   3. Handling missing values
+
+**EDA**
+
+
