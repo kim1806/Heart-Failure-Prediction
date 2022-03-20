@@ -21,6 +21,8 @@ People with cardiovascular disease or who are at high cardiovascular risk is due
 
 **Data Cleaning Problems:**
 
+https://github.com/kim1806/Heart-Failure-Prediction/blob/main/Data%20Cleaning%20Heart%20Disease%20Prediction%20.ipynb
+
   1. Correcting the data types
   2. Removing the unecessary columns or values
   3. Handling missing values
