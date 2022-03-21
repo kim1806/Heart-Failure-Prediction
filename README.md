@@ -65,58 +65,24 @@ A pairplot between heart disease with age, sex, chestPainType, restingBP, choles
 **Machine Learning:**
 
 **Logistic Regression Result**
-                      precision      recall        f1-score          support
 
-0                    0.88              0.83            0.86                   119
-1                    0.88              0.92            0.90                   157
-
-Accuracy                                               0.88                   276
-macro avg           0.88            0.87              0.88                   276
-weighted avg          0.88            0.88             0.88                   276
+![image](https://user-images.githubusercontent.com/91767251/159200959-194441ba-eede-48a0-84a9-59fd9dbd87bb.png)
 
 **Random Forest Classification Result**
 
-             precision          recall            f1-score                   support
-
-0             0.88                 0.84                0.86                        116
-1             0.89                 0.91                0.90                        160
-
-accuracy                                             0.88                          276
-macro avg      0.88               0.88               0.88                          276
-weighted avg    0.88              0.88               0.88                          276
+![image](https://user-images.githubusercontent.com/91767251/159200983-884d0631-accb-41b9-ae1e-cef45017b18b.png)
 
 **SVC Result**
 
-                  precision         recall        f1-score    support
-
-0                    0.88             0.87           0.87           113
-1                    0.91             0.91           0.91           163
-
-accuracy                                             0.89           276
-macro avg           0.89             0.89           0.89            276
-weighted avg         0.89            0.89           0.89            276
+![image](https://user-images.githubusercontent.com/91767251/159200869-4e9036e9-044d-4716-a907-ed748a0a2b85.png)
 
 **Catboost Result**
 
-               precision          recall         f1-score           support
-
-0                 0.89              0.88            0.88                  114
-1                 0.91              0.93            0.92                  162
-
-accuracy                                              0.91                  276
-macro avg           0.90          0.90                0.90                  276
-weighted avg        0.91          0.91                0.91                  276
+![image](https://user-images.githubusercontent.com/91767251/159200926-d88b85a7-da7d-4e77-a8d6-477485479206.png)
 
 **LGBM Result**
 
-                      precision        recall       f1-score         support
-
-0                       0.87             0.83         0.85                    117
-1                       0.88             0.91         0.89                    159
-
-accuracy                                              0.87                   276
-macro avg               0.87             0.87         0.87                   276
-weighted avg           0.87             0.87          0.87                  276
+![image](https://user-images.githubusercontent.com/91767251/159200904-a274f830-67bf-4e53-a06f-2f4c35833f0d.png)
 
 **Best Result**
 
