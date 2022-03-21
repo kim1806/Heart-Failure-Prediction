@@ -61,3 +61,64 @@ Asymptomatic is the most common type of chest pain among patients with heart dis
 ![image](https://user-images.githubusercontent.com/91767251/159190789-e4f4d0dd-e88b-48fd-b272-a389c4f1d441.png)
 
 A pairplot between heart disease with age, sex, chestPainType, restingBP, cholesterol, fastingBS, restingECG, maxHR ExerciseAngina, Old_Peak, and ST_Slope.
+
+**Machine Learning:**
+
+**Logistic Regression Result**
+                      precision      recall        f1-score          support
+
+0                    0.88              0.83            0.86                   119
+1                    0.88              0.92            0.90                   157
+
+Accuracy                                               0.88                   276
+macro avg           0.88            0.87              0.88                   276
+weighted avg          0.88            0.88             0.88                   276
+
+**Random Forest Classification Result**
+
+             precision          recall            f1-score                   support
+
+0             0.88                 0.84                0.86                        116
+1             0.89                 0.91                0.90                        160
+
+accuracy                                             0.88                          276
+macro avg      0.88               0.88               0.88                          276
+weighted avg    0.88              0.88               0.88                          276
+
+**SVC Result**
+
+                  precision         recall        f1-score    support
+
+0                    0.88             0.87           0.87           113
+1                    0.91             0.91           0.91           163
+
+accuracy                                             0.89           276
+macro avg           0.89             0.89           0.89            276
+weighted avg         0.89            0.89           0.89            276
+
+**Catboost Result**
+
+               precision          recall         f1-score           support
+
+0                 0.89              0.88            0.88                  114
+1                 0.91              0.93            0.92                  162
+
+accuracy                                              0.91                  276
+macro avg           0.90          0.90                0.90                  276
+weighted avg        0.91          0.91                0.91                  276
+
+**LGBM Result**
+
+                      precision        recall       f1-score         support
+
+0                       0.87             0.83         0.85                    117
+1                       0.88             0.91         0.89                    159
+
+accuracy                                              0.87                   276
+macro avg               0.87             0.87         0.87                   276
+weighted avg           0.87             0.87          0.87                  276
+
+**Best Result**
+
+![image](https://user-images.githubusercontent.com/91767251/159200608-66c13ab4-3333-448a-a325-82a8f5b88e9b.png)
+
